@@ -2,8 +2,6 @@
 
 **Detect financial anomalies and assess loan risk in real-time using structured + unstructured data, all inside an interactive Streamlit dashboard.**
 
-![dashboard_preview](assets/finintel-dashboard.png) <!-- Optional screenshot -->
-
 ---
 
 ## 🚀 Features
