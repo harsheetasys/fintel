@@ -1,0 +1,101 @@
+ClientID,Age,Income,LoanAmount,CreditScore,LoanPurpose,ApplicationDescription,due,funds,need,to,urgent,Anomaly,AnomalyLabel,is_anomaly
+CL-1000,59,37666,22959,308,Medical,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1001,49,63660,6530,532,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1002,35,28561,30320,398,Car,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1003,63,51854,4748,507,Car,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1004,28,89505,32968,430,Travel,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1005,41,129488,33562,703,Home,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1006,59,77251,14545,451,Education,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1007,39,47662,1663,353,Car,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1008,43,33392,35766,419,Travel,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1009,31,55535,8994,719,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1010,31,103603,29021,721,Business,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1011,44,138569,31303,403,Education,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1012,56,77256,4304,553,Medical,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1013,60,114135,47576,526,Home,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1014,44,60222,40353,411,Medical,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1015,23,102373,18675,809,Education,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1016,42,104575,45417,772,Education,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1017,22,148684,24938,398,Education,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1018,44,121354,24664,452,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1019,64,109651,2636,637,Education,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1020,50,88335,21080,462,Travel,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1021,58,35965,28728,460,Medical,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1022,22,49538,27736,697,Education,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1023,41,133066,29673,576,Travel,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1024,53,95592,38505,803,Business,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1025,32,123018,48323,691,Education,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1026,42,138252,47645,434,Medical,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1027,64,33110,1854,494,Car,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1028,45,104309,25548,700,Education,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1029,47,52266,39623,332,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1030,62,77992,8392,759,Travel,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1031,48,107948,47717,769,Business,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1032,36,147073,22556,674,Home,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1033,35,123806,39559,321,Business,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1034,64,31910,27309,337,Education,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1035,23,135989,22919,529,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1036,57,115982,5931,664,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1037,27,146626,33970,737,Medical,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1038,41,144176,45215,582,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1039,29,25206,13688,326,Medical,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1040,59,112054,26342,525,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1041,38,112897,38157,576,Home,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1042,24,147409,3327,583,Education,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1043,45,48419,41772,780,Medical,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1044,34,75636,41545,752,Home,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1045,29,147546,1197,815,Car,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1046,46,139238,24509,846,Car,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1047,22,75015,35698,491,Home,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1048,40,142478,45542,348,Car,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1049,48,147096,16087,811,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1050,27,132059,23671,316,Travel,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1051,64,79268,26184,471,Home,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1052,28,135687,28848,519,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1053,55,112939,43107,457,Medical,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1054,34,43141,21666,776,Home,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1055,37,105356,45357,345,Medical,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1056,56,130878,16708,672,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1057,60,96910,27370,817,Travel,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1058,24,81044,3811,398,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1059,22,92214,48011,336,Business,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1060,26,142930,7546,579,Education,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1061,62,144324,35754,648,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1062,24,58827,31206,796,Business,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1063,49,80820,42106,601,Medical,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1064,38,87623,12411,480,Travel,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1065,46,106734,3911,398,Home,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1066,64,100450,2734,415,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1067,54,118426,19227,490,Travel,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1068,30,142845,9680,552,Education,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1069,56,47299,20360,460,Medical,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1070,34,68585,19343,555,Home,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1071,51,134225,6759,622,Travel,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1072,35,89044,24078,427,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1073,28,67557,36153,317,Travel,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1074,34,74080,12111,622,Education,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1075,43,134556,38504,587,Medical,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1076,60,27693,2802,454,Education,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1077,41,120003,9155,789,Car,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1078,36,120259,9120,685,Car,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1079,38,137235,40384,403,Medical,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1080,44,94163,48025,692,Education,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1081,46,50939,48254,545,Home,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1082,45,73925,22918,475,Travel,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1083,61,67941,21445,338,Travel,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1084,49,46834,31306,776,Medical,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1085,35,43047,17646,837,Car,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1086,21,51105,47843,707,Car,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1087,45,100766,32065,824,Travel,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1088,27,40707,26199,805,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,1,Normal,0
+CL-1089,29,46976,42976,335,Education,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1090,44,69262,17371,319,Car,House renovation loan requested,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1091,21,48776,12835,620,Education,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1092,64,55080,46936,811,Car,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1093,28,91842,3049,699,Car,Starting a new business venture,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1094,44,86373,32616,770,Business,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1095,31,31776,39191,442,Car,Planning family vacation,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1096,37,117787,48357,391,Home,College fees payment required soon,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1097,28,80016,21932,653,Medical,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
+CL-1098,55,34474,30855,350,Medical,Need urgent funds due to surgery,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,0.447213595499958,-1,Anomaly,1
+CL-1099,55,130830,8158,489,Education,Buying a second-hand vehicle,0.0,0.0,0.0,0.0,0.0,1,Normal,0
