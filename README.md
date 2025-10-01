@@ -37,8 +37,20 @@ This dashboard enables analysts to:
 
 ## ✅ Try It Out
 
-```bash
 # Clone and install
+ **Create and activate a virtual environment**
+
+   ```bash
+   python -m venv myenv
+   source myenv/bin/activate   # Linux/Mac
+   myenv\Scripts\activate      # Windows
+   ```
+**Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+# Generate dataset
 python data_generator.py
 # Run dashboard
 streamlit run app.py
